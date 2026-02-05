@@ -1,0 +1,2 @@
+# PoolEntryDetectionDevice
+Senior design project
