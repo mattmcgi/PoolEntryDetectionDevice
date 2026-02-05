@@ -1,0 +1,4 @@
+# Altium preview files
+__Previews/
+*.PrjPCB.bak
+*.SchDoc.PrjPCB
