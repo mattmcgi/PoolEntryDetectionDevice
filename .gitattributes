@@ -1,0 +1,16 @@
+# Treat all files as documentation by default
+* linguist-documentation
+
+# Ignore typical non-code files
+*.pdf linguist-documentation
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.gif linguist-vendored
+*.svg linguist-vendored
+*.zip linguist-vendored
+*.rar linguist-vendored
+*.brd linguist-vendored    # PCB files
+*.sch linguist-vendored    # Schematics
+*.kicad_pcb linguist-vendored
+*.fzz linguist-vendored    # Fritzing files
