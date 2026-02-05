@@ -14,3 +14,7 @@
 *.sch linguist-vendored    # Schematics
 *.kicad_pcb linguist-vendored
 *.fzz linguist-vendored    # Fritzing files
+# Altium preview files
+__Previews/
+*.PrjPCB.bak
+*.SchDoc.PrjPCB
