@@ -10,3 +10,5 @@ This PCB is a small **Raspberry Pi HAT** designed to facilitate communication be
 - **Layers:** 2  
 - **Trace width:** 10 mil  
 - **Via size:** 12 mil drill, 24 mil pad diameter  
+
+For detailed design decisions and problems encountered, see [Design Rationale](docs/Design_Rationale.md)
